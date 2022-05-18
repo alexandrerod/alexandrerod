@@ -1,11 +1,17 @@
-### Hi there 👋
+# Olá a todos, meu nome é Alexandre 👋
+
+## Sobre mim:
+
+Sou graduando de Engenharia Mecânica Naval na Universidade Federal do Rio Grande (FURG)
+
+
 
 <!--
 **alexandrerod/alexandrerod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente estou ==
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
