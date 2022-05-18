@@ -1,22 +1,8 @@
-# Olá a todos, meu nome é Alexandre 👋
-
-## Sobre mim:
-
-Sou graduando de Engenharia Mecânica Naval na Universidade Federal do Rio Grande (FURG)
+## Olá a todos, meu nome é Alexandre 👋
 
 
+Sou graduando de Engenharia Mecânica Naval na Universidade Federal do Rio Grande (FURG), e venho desenvolvendo minhas habilidades para um dia atuar como Ciêntista de Dados.
 
-<!--
-**alexandrerod/alexandrerod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Podemos nos falar por aqui: https://www.linkedin.com/in/alexandrerodrigues96/
 
-Here are some ideas to get you started:
 
-- 🔭 Atualmente estou ==
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
